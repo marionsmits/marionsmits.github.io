@@ -1,0 +1,192 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <title>{{title}} {{author}}</title>
+  <meta name="description" content="{{author}} {{blog_title}}" />
+  <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1.0;">
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="ROBOTS" content="INDEX,FOLLOW">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta name="description" content="{{author}} | {{blog_title}}">
+  <meta property="og:url" content="{{#posts}}{{#is_post}}{{permalink}}{{/is_post}}{{/posts}}">
+  <meta property="og:site_name" content="{{#posts}}{{#is_post}}{{title}} - {{/is_post}}{{/posts}}{{author}} on scriptogr.am">
+  <meta property="og:title" content="{{#posts}}{{#is_post}}{{title}} - {{/is_post}}{{/posts}}{{author}} on scriptogr.am" />
+  <meta property="og:description" content="{{author}} | {{blog_title}}" />
+  <meta property="og:type" content="article" />
+  <meta property="fb:app_id" content="241164325961701" />
+  <meta property="og:image" content="https://twimg0-a.akamaihd.net/profile_images/1733970682/scriptogram.png" />
+  <link rel='canonical' href='{{#posts}}{{#is_post}}{{permalink}}{{/is_post}}{{/posts}}' />
+  <link rel="shortcut icon" href="http://scriptogr.am/lib/img/favicon.ico">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{base_url}}/feed" />
+  <link href="/themes/reset.css" type="text/css" rel="stylesheet">
+  {{css}}
+</head>
+<body>
+<div class="wrapper">
+  <div class="blog">
+    <div id="header">
+      <h1><a href="{{home_link}}"><img src="https://dl.dropbox.com/u/3579694/marionsmits.net/logo.png" alt="Marion Smits"/></a></h1>
+      <div id="headerimg">
+        <h1><a href="{{home_link}}">{{author}}</a></h1>
+        <div class="description">{{blog_title}}</div>
+      </div>
+    </div>
+
+      <div id="menu">
+      {{#pages}}
+        <a href="{{permalink}}">{{title}}</a>
+      {{/pages}}
+      </div>
+ 
+      <div id="sidebar">
+        <h2>Upcoming events</h2>
+        <p><strong>7-11 March 2013</strong><a href="http://www.myesr.org/start/"> European Congress of Radiology</a>, Vienna (AT).</p>
+        <p><strong>8-13 April 2013</strong><a href="http://www.esnr-ecnrcourse.com"> European Course of Neuroradiology</a>, Athens (GR).</p>
+        <p><strong>18-23 May 2013</strong><a href="http://www.asnr.org/2013/"> American Society of Neuroradiology annual meeting</a>, San Diego (US).</p>
+        <p><strong>30 May-1 June 2013</strong><a href="http://www.esmrmb.org"> School of MRI: fMRI&DTI in Clinical Practice</a>, Rotterdam (NL).</p>
+        <p><strong>18-21 June 2013</strong><a href="http://www.radiologen.nl/13/6220/activiteitenkalender/jaarkalender-2013.html"> National Course on Radiology: Neuroradiology & Head and Neck radiology</a>, Ede (NL).</p>
+      </div>
+ 
+      <div class="container">
+      {{#posts}}
+     
+       <!-- index -->
+       {{#is_index}}
+        <a class="twitter-timeline" height=350 data-link-color="#006AFF" data-dnt=true href="https://twitter.com/MarionSmits" data-widget-id="257247971945611265">Tweets by @MarionSmits</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        
+        <div class="post">
+          <div class="content">
+            <div class="title"><h3><a href="{{permalink}}">{{title}}</a> {{#post_permalink}}<a href="{{post_permalink}}">#</a>{{/post_permalink}}</h3></div>
+            {{#date}}
+            <div class="meta">
+              <span class="date">{{prettydate}}</span>
+            </div>
+            {{/date}}
+            <div class="body-post">
+              <!--if excerpt-->
+              {{#excerpt}}<span class="introduction">{{excerpt}}</span>{{/excerpt}}
+              <!--endif-->
+              {{content}}
+              <!-- if tags -->
+              {{#if_tags}}
+              <ul class="tags">
+                {{#tags}}
+                  <li><a href="{{base_url}}/tag/{{name}}">{{name}}</a></li>
+                {{/tags}}
+              </ul>  
+              {{/if_tags}}
+              <!-- endif -->
+            </div><!--end body-->
+          </div><!--end content-->
+          <div class="clear"></div>
+        </div><!--end post-->
+      {{/is_index}}
+
+      <!-- post permalink -->
+      {{#is_post}}
+        <div class="post">
+          <div class="content">
+            <div class="title"><h2><a href="{{permalink}}">{{title}}</a></h2></div>
+            {{#date}}
+            <div class="meta">
+              <span class="date">{{prettydate}}</span>
+            </div>
+            {{/date}}
+            <div class="body-post">
+              <!--if excerpt-->
+              {{#excerpt}}<span class="introduction">{{excerpt}}</span>{{/excerpt}}
+              <!--endif-->
+              {{content}}
+              <!-- if tags -->
+              {{#if_tags}}
+              <ul class="tags">
+                {{#tags}}
+                  <li><a href="{{base_url}}/tag/{{name}}">{{name}}</a></li>
+                {{/tags}}
+              </ul>  
+              {{/if_tags}}
+              <!-- endif -->
+              <!-- social buttons -->
+               <div class="share-buttons">
+                <div class="share-twitter">
+                  <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{permalink}}" data-via="scriptogram">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>             
+                 </div>
+                <div class="share-facebook">
+                  <div class="fb-like" data-href="{{permalink}}" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false" data-font="arial"></div>
+                </div>
+                <div class="share-gplus">
+                  <g:plusone size="medium" href="{{permalink}}"></g:plusone>
+                 </div>
+               </div>
+            </div><!--end body-->
+          </div><!--end content-->
+          <div class="clear"></div>
+        </div><!--end post-->
+      {{/is_post}}
+      <!-- endif -->
+
+      <!-- page permalink -->
+      {{#is_page}}
+        <div class="post">
+          <div class="content">
+            <div class="title"><h3><a href="{{permalink}}">{{title}}</a></h3></div>
+              <div class="body-page">
+              <!--if excerpt-->
+              {{#excerpt}}<span class="introduction">{{excerpt}}</span>{{/excerpt}}
+              <!--endif-->
+              {{content}}
+              <!-- if tags -->
+              {{#if_tags}}
+              <ul class="tags">
+                {{#tags}}
+                  <li><a href="{{base_url}}/tag/{{name}}">{{name}}</a></li>
+                {{/tags}}
+              </ul>  
+              {{/if_tags}}
+              <!-- endif -->
+            </div><!--end body-->
+          </div><!--end content-->
+          <div class="clear"></div>
+        </div><!--end post-->
+      {{/is_page}}
+      <!-- endif -->
+    
+      <!-- archive -->
+      {{#is_archive}}
+        <div class="post">
+          {{#archive_divider}}<div class="archive-divider {{archive_divider_index}}"><h2>{{archive_divider}}</h2></div>{{/archive_divider}}
+          <div class="archive-content">
+            <div class="archive-title"><h3><a href="{{permalink}}">{{title}}</a></h3></div>
+            <div class="meta"><span class="date">{{prettydate}}</span></div>
+          </div><!--end archive-content-->
+          <div class="clear"></div>
+        </div><!--end achive-->
+      {{/is_archive}}
+      
+    {{/posts}}
+    <div class="pagination">{{pagination}}</div>
+    </div><!-- end container -->
+  </div><!-- end blog -->
+</div><!-- end wrapper --> 
+<div id="fb-root"></div>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/themes/{{theme}}/app.js"></script>
+<script type="text/javascript">
+(function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=241164325961701";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+</body>
+</html>           
