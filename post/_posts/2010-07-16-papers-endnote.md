@@ -2,7 +2,7 @@
 layout: post
 title: "Papers & Endnote"
 slug: 2010-07-16-papers-endnote
-tags: fMRI, DTI, decision making, radiology
+tags: fMRI, DTI, decision-making, radiology
 ---
 
 I have recently discovered [Papers](http://mekentosj.com/papers/), a beautiful software package for Mac to organise my scientific papers: absolute heaven! I used to have lots of folders with downloaded pdf's, named by subject and numbered according to my Endnote libraries so I could keep track of them, but of course I could never find anything in the end.

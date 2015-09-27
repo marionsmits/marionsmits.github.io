@@ -5,9 +5,8 @@ title: Archive
 
 <div class="post">
   <div class="content">
-{% for page in site.posts %}
-		<div class="meta"><span class="date">{{ page.date | date:'%d %b %Y' }}</span></div>
-		<h3><a href="{{path_prefix}}{{ page.url | replace_first:'/','' | replace:'.html','' }}">{{page.title}}</a></h3>		  
+{% for post in site.categories.post %}
+{% include post.html %}
 {% endfor %}
 	</div>
 </div>

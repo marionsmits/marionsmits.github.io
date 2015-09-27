@@ -2,7 +2,7 @@
 layout: post
 title: "The CHIP Prediction Rule"
 slug: 2007-03-20-the-chip-prediction-rule-2
-tags: decision making
+tags: decision-making
 ---
 
 Today, our [CHIP Prediction Rule](http://www.annals.org/cgi/content/abstract/146/6/397) was published in Annals of Internal Medicine (Ann Intern Med 2007;146:397-405).

@@ -2,7 +2,7 @@
 layout: post
 title: "Five rules for surviving business travel"
 slug: five-rules-surviving-business-travel
-tags: Radiology Conference
+tags: conference
 ---
 
  I travel for work, a lot. People ask me how I do it, and I shrug. I don't mind travel, so what's the big deal.

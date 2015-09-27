@@ -2,7 +2,7 @@
 layout: post
 title: "ECR special - day 2"
 slug: 2007-03-10-ecr-special-day-2
-tags: fMRI, conference, decision making
+tags: fMRI, conference, decision-making
 ---
 
 Very busy day today: presenting "Loss of consciousness in minor head injury" from our CHIP study, my fMRI study of postconcussion syndrome, and "Neuro-applications at 3T" at the GE Healthcare Satellite symposium. Not much time and energy left to follow many other talks or courses..

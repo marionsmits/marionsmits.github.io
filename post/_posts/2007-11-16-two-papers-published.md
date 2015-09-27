@@ -2,7 +2,7 @@
 layout: post
 title: "Two papers published today!"
 slug: 2007-11-16-two-papers-published
-tags: decision making
+tags: decision-making
 ---
 
 What a lovely day - two of our CHIP papers were published today!

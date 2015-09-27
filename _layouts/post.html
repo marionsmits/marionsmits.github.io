@@ -52,8 +52,8 @@
 						{% if page.tags %}
 							<ul class="tags">
 								{% for name in page.tags %}
-									<!-- {{path_prefix}}tag/{{name}} -->
-									<li><a href="#">{{name}}</a></li>
+{% capture tag %}{{ name | replace:',','' }}{% endcapture %}									
+									<li><a href="{{path_prefix}}tag/{{ tag | downcase}}">{{tag}}</a></li>
 								{% endfor %}
 							</ul>  
 						{% endif %}
