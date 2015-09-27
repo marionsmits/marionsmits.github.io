@@ -1,0 +1,59 @@
+<!DOCTYPE html> 
+<html lang="en">
+{% assign author = 'Marion Smits' %}
+{% if paginator.page > 1 %}{% assign path_prefix = '../' %}{% endif %}
+{% capture url_depth %}{{ page.url | split:"/" | size }}{% endcapture %}
+{% if url_depth == '3' %}{% assign path_prefix = '../' %}{% endif %}
+<head>
+	<title>{{page.title}}</title>
+	<meta name="description" content="{{author}} {{blog_title}}" />
+	<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1.0;">
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="ROBOTS" content="INDEX,FOLLOW">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="description" content="{{author}} | {{blog_title}}">
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="{{base_url}}/feed" />
+	<link href="{{path_prefix}}style/reset.css" type="text/css" rel="stylesheet">
+	<link href="{{path_prefix}}style/marionsmits.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<div class="wrapper">
+	<div class="blog">
+		<div id="header">
+			<h1><a href="{{path_prefix}}index.html"><img src="{{path_prefix}}style/logo.png" alt="Marion Smits"/></a></h1>
+			<div id="headerimg">
+				<h1><a href="{{path_prefix}}index.html">{{author}}</a></h1>
+				<div class="description">My life in neuroradiology, FMRI &amp DTI research</div>
+			</div>
+		</div>
+
+		<div id="menu">
+			{% for page in site.pages %}
+				{% if page.title %}
+					<a href="{{path_prefix}}{{ page.url | replace:'/','' | replace:'.html','' }}">{{page.title}}</a>
+				{% endif %}
+			{% endfor %}
+			<a href="http://hilton.org.uk/chip-prediction-rule/">CHIP prediction rule</a>
+		</div>
+
+		<div id="sidebar">
+			{% capture events %}{% include events.md %}{% endcapture %}
+			{{ events | markdownify }}
+		</div>
+
+		<div class="container">
+			<div class="post">
+				<div class="content">
+					<div class="title"><h2>Articles tagged ‘{{ page.title }}’</h2></div>
+					<div class="body-page">
+						{{ content }}
+					</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>           

@@ -1,0 +1,5 @@
+{% assign path_prefix = '../' %}
+
+<p><a href="{{path_prefix}}{{ post.url | replace_first:'/','' | replace:'.html','' }}">{{post.title}}</a>
+{% if post.date %}- {{ post.date | date:'%d %b %Y' }}{% endif %}
+</p>

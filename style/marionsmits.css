@@ -334,3 +334,8 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {  }
 #dsq-content {width: 500px !important; margin-left: 130px !important;}
 .dsq-textarea-reply {font-famyly: georgia;}
 .dsq-textarea-background {background: #fff;}
+
+/* marionsmits.net overrides */
+body { font-size:13px; }
+.body-post { font-size:16px; }
+h3 small { color:#666; }
