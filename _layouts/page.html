@@ -27,14 +27,7 @@
 			</div>
 		</div>
 
-		<div id="menu">
-			{% for page in site.pages %}
-				{% if page.title %}
-					<a href="{{path_prefix}}{{ page.url | replace:'/','' | replace:'.html','' }}">{{page.title}}</a>
-				{% endif %}
-			{% endfor %}
-			<a href="http://hilton.org.uk/chip-prediction-rule/">CHIP prediction rule</a>
-		</div>
+		{% include menu.html %}
 
 		<div id="sidebar">
 			{% capture events %}{% include events.md %}{% endcapture %}

@@ -1,0 +1,9 @@
+<div id="menu">
+	{% for page in site.pages %}
+		{% if page.title %}
+			<a href="{{path_prefix}}{{ page.url | replace:'/','' | replace:'.html','' }}">{{page.title}}</a>
+		{% endif %}
+	{% endfor %}
+	<a href="https://scholar.google.nl/citations?hl=en&user=RjZ6HdkAAAAJ&view_op=list_works&citft=1&citft=2&email_for_op=marion.smits%40gmail.com&sortby=pubdate">Publications</a>
+	<a href="http://hilton.org.uk/chip-prediction-rule/">CHIP prediction rule</a>
+</div>
