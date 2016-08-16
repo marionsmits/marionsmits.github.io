@@ -13,6 +13,6 @@
 
 10-11 Nov 2016 _Paediatric Neuroradiology_ at [Conference Course](https://www.paoheyendael.nl/nl/congressen-en-symposia), Nijmegen/NL
 
-27 Nov - 2 Dec 2016 RSNA, Chicago/US
+27 Nov - 2 Dec 2016 [RSNA] (https://rsna2016.rsna.org), Chicago/US
 
 19-23 Sep 2018 [41st ESNR Annual Meeting](http://www.esnr.org/en/calendar/esnr-annual-meetings/19-09-2018-41st-esnr-annual-meeting/), Rotterdam/NL
