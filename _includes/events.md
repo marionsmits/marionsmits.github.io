@@ -1,18 +1,19 @@
 ## Upcoming Lectures
 
-17 Sep 2016 _ASL in Alzheimer disease_ at [ESNR](http://www.esnr.org/en/39th-esnr-annual-meeting/), Belgrade/Serbia
+1 Mar 2017 _Brain trauma Interactive session_ at [ECR](http://www.myesr.org/cms/website.php?id=/en/ecr_2017.htm), Vienna/AT
 
-1 Oct 2016 _ASL technical considerations, brain tumour, CVD_ at [ESMRMB](http://www.esmrmb.org/index.php?id=/en/index/esmrmb_2016_congress.htm), Vienna/AT
+1 Mar 2017 _Advanced MRI techniques_ at [ECR](http://www.myesr.org/cms/website.php?id=/en/ecr_2017.htm), Vienna/AT
 
-12 Oct 2016 _Brain tumour imaging_ at [EURO-CNS](http://www.euro-cns.org/home/events/cme-training-courses/2016-tumors-amsterdam/#c861), Amsterdam/NL
-
+2 Mar 2017 _Imaging biomarker for clinical trials in brain tumours_ at [ECR](http://www.myesr.org/cms/website.php?id=/en/ecr_2017.htm), Vienna/AT
 
 ## Upcoming Events
-
-22-24 Sep 2016 [ESHNR](http://www.eshnr.eu/meetings/general-information/), Leiden/NL
 
 10-11 Nov 2016 _Paediatric Neuroradiology_ at [Conference Course](https://www.paoheyendael.nl/nl/congressen-en-symposia), Nijmegen/NL
 
 27 Nov - 2 Dec 2016 [RSNA](https://rsna2016.rsna.org), Chicago/US
+
+1-5 Marc 2017 [ECR](http://www.myesr.org/cms/website.php?id=/en/ecr_2017.htm), Vienna/AT
+
+15-17 Jun 2017 [ESMRMB School of MRI: fMRI&DTI in clinical practice](http://www.esmrmb.org/index.php?id=/en/school_of_mri.htm), Porto/PT
 
 19-23 Sep 2018 [41st ESNR Annual Meeting](http://www.esnr.org/en/calendar/esnr-annual-meetings/19-09-2018-41st-esnr-annual-meeting/), Rotterdam/NL
