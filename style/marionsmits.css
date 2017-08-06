@@ -4,7 +4,7 @@ body {
 	font: 12px/1.5 Helvetica, Arial, sans-serif;
 	margin: 0px;
 	padding: 50px;
-	width: 760px;
+	width: 500px;
 }
 
 /* Links & Typography */
@@ -79,19 +79,14 @@ strong, b {
 
 #sidebar {
  position:absolute;
- left:780px;
- width:200px;
-}
-
-.twitter-timeline {
- margin-left: 130px;
+ left:650px;
+ width:250px;
 }
 
 /* Menu */
 
 #menu {
 	margin-top: 13px;
-	height: 50px
 }
 
 #menu a {
