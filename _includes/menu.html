@@ -1,4 +1,5 @@
 <div id="menu">
+	<a href="/">Home</a>
 	{% for page in site.pages %}
 		{% if page.title %}
 			<a href="{{path_prefix}}{{ page.url | replace:'/','' | replace:'.html','' }}">{{page.title}}</a>

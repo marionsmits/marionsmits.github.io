@@ -2,5 +2,3 @@ future: false
 markdown: kramdown
 permalink: ":categories/:title.html"
 timezone: Europe/Amsterdam
-paginate: 10
-paginate_path: ":num"

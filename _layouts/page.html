@@ -30,6 +30,9 @@
 		{% include menu.html %}
 
 		<div id="sidebar">
+			<a class="twitter-timeline" height=320 data-link-color="#006AFF" data-dnt=true href="https://twitter.com/MarionSmits" data-widget-id="257247971945611265">Tweets by @MarionSmits</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			
 			{% capture events %}{% include events.md %}{% endcapture %}
 			{{ events | markdownify }}
 		</div>
@@ -37,7 +40,9 @@
 		<div class="container">
 			<div class="post">
 				<div class="content">
+					{% if page.title %}
 					<div class="title"><h2><a href="{{ page.url | replace:'/','' | replace:'.html','' }}">{{page.title}}</a></h2></div>
+					{% endif %}
 					{% if page.date %}
 						<div class="meta"><span class="date">{{ page.date | date:'%d %b %Y' }}</span></div>
 					{% endif %}
