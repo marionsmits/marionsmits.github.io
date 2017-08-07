@@ -331,6 +331,36 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {  }
 .dsq-textarea-background {background: #fff;}
 
 /* marionsmits.net overrides */
+
+/* Boxes */
+
+body { margin: 0 auto; width: 75em; }
+.blog { display: flex; flex-wrap: wrap; }
+#header, #menu { flex: 1 0 100%; }
+#sidebar { background: #fff; max-width: 30em; width: inherit; position: inherit; flex: 1; order: 2; }
+.container { background: #fff; flex: 0 2 40em; order: 1; margin-right: 2em;}
+.content { clear:inherit; margin: inherit; width: inherit; }
+.body-post { margin-top: 1em; margin-left: 0; }
+.body-post p, .body-page p { width: inherit; }
+.twitter-timeline { height: 480px !important; }
+
+@media (max-width: 1000px) {
+	body { width: 92%; margin: 4%; padding: 0; }
+	#header img { width: 100%; max-width: 379px; }
+	#menu { }
+	#menu a { margin-right: 1em; padding-bottom: 0; }
+	.blog { flex-direction: column; }
+	.blog > * { flex: 1 1 100%; margin: 1em 0; }
+	#sidebar { order: 1; max-width: inherit; }
+	.container { order: 2; margin-right: 0; }
+	#menu a:first-child, #sidebar iframe, .not-m { display: none !important; }
+}
+
+/* Text  */
+
 body { font-size:13px; }
 .body-post { font-size:16px; }
+
+/* Colour */
+
 h3 small { color:#666; }
