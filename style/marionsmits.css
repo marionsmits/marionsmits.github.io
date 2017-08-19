@@ -348,7 +348,7 @@ body { margin: 0 auto; width: 75em; }
 
 body { font-size:13px; }
 .body-post { font-size:16px; }
-#header h1 { font: 200 70px "Source Sans Pro" }
+#header h1 { font-weight: 200; font-size: 70px; font-family: "Source Sans Pro" }
 #header em { 	margin-left:0.25em; }
 #header a:hover { text-decoration:none; }
 
