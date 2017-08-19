@@ -334,7 +334,7 @@ body { margin: 0 auto; width: 75em; }
 
 @media (max-width: 1000px) {
 	body { width: 92%; margin: 4%; padding: 0; }
-	#header h1 { font-size: 40px; }
+	#header, #header h1 { margin: 0; }
 	#menu { }
 	#menu a { margin-right: 1em; padding-bottom: 0; }
 	.blog { flex-direction: column; }
@@ -351,6 +351,10 @@ body { font-size:13px; }
 #header h1 { font-weight: 200; font-size: 70px; font-family: "Source Sans Pro" }
 #header em { 	margin-left:0.25em; }
 #header a:hover { text-decoration:none; }
+
+@media (max-width: 1000px) {
+	#header h1 { font-size: 50px; }
+}
 
 /* Colour */
 
