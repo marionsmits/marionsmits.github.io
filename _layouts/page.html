@@ -37,8 +37,6 @@
 		<div class="container">
 			<div class="post">
 				<div class="content">
-					{% if page.title %}
-					<div class="title"><h2><a href="{{ page.url | replace:'/','' | replace:'.html','' }}">{{page.title}}</a></h2></div>
 					{% endif %}
 					{% if page.date %}
 						<div class="meta"><span class="date">{{ page.date | date:'%d %b %Y' }}</span></div>

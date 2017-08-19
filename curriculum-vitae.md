@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Curriculum vitæ
 Type: page
 Slug: curriculum-vitae
 ---
