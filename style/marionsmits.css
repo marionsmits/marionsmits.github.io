@@ -9,28 +9,16 @@ body {
 
 /* Links & Typography */
 
+a:link, a:active, a:visited, a:link:hover, a:active:hover, a:visited:hover {
+	color: #BF1900;
+}
+
 a {
 	text-decoration: none;
 }
 
-a:link, a:active {
-	color: #5691CD;
-}
-
-a:visited {
-	color: #5691CD;
-}
-
 a:link:hover, a:active:hover, a:visited:hover {
 	text-decoration: underline;
-}
-
-a:link:hover, a:active:hover {
-	color: #5691CD;
-}
-
-a:visited:hover {
-	color: #5691CD;
 }
 
 a > img {
@@ -360,7 +348,14 @@ body { margin: 0 auto; width: 75em; }
 
 body { font-size:13px; }
 .body-post { font-size:16px; }
+#header h1 { font: 200 70px "Source Sans Pro" }
+#header em { 	margin-left:0.25em; }
+#header a:hover { text-decoration:none; }
 
 /* Colour */
 
+#header em { color: #BF1900; }
 h3 small { color:#666; }
+#header h1 > a:hover { color: #BF1900 !important; }
+
+::selection { color: white; background-color: #BF1900; }

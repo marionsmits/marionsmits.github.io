@@ -12,6 +12,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta charset="utf-8">
 	<meta name="description" content="{{author}} | {{blog_title}}">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200" rel="stylesheet">
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="{{base_url}}/feed" />
 	<link href="{{path_prefix}}style/reset.css" type="text/css" rel="stylesheet">
 	<link href="{{path_prefix}}style/marionsmits.css" type="text/css" rel="stylesheet">
@@ -20,17 +21,13 @@
 <div class="wrapper">
 	<div class="blog">
 		<div id="header">
-			<h1><a href="{{path_prefix}}index.html"><img src="{{path_prefix}}style/logo.png" alt="Marion Smits"/></a></h1>
-			<div id="headerimg">
-				<h1><a href="{{path_prefix}}index.html">{{author}}</a></h1>
-				<div class="description">My life in neuroradiology, FMRI &amp; DTI research</div>
-			</div>
+			<h1><a href="{{path_prefix}}index.html">Marion Smits<em>.</em></a></h1>
 		</div>
 
 		{% include menu.html %}
 
 		<div id="sidebar">
-			<a class="twitter-timeline not-m" data-link-color="#006AFF" data-dnt=true href="https://twitter.com/MarionSmits" data-widget-id="257247971945611265">Tweets by @MarionSmits</a>
+			<a class="twitter-timeline not-m" data-link-color="#BF1900" data-dnt=true href="https://twitter.com/MarionSmits" data-widget-id="257247971945611265">Tweets by @MarionSmits</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 			
 			{% capture events %}{% include events.md %}{% endcapture %}
