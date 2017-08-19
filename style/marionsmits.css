@@ -339,9 +339,12 @@ body { margin: 0 auto; width: 75em; }
 	#menu a { margin-right: 1em; padding-bottom: 0; }
 	.blog { flex-direction: column; }
 	.blog > * { flex: 1 1 100%; margin: 1em 0; }
-	#sidebar { order: 1; max-width: inherit; }
+	#sidebar { display: none; }
+	.index #sidebar { display: block; order: 1; max-width: inherit; }
 	.container { order: 2; margin-right: 0; }
 	#menu a:first-child, #sidebar iframe, .not-m { display: none !important; }
+	.content .meta { float: none; }
+	.content .meta + h3 { margin-top: 0; }
 }
 
 /* Text  */
