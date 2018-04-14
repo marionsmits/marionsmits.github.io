@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Marion Smits is associate professor and neuroradiologist at Erasmus MC, Rotterdam (NL), and honorary consultant and reader at University College London Hospital NHS Foundation Trust in London (UK). She combines  research with clinical work, with a particular focus on neurodegenerative disease within the [Alzheimer Centre South-West Netherlands](http://www.erasmusmc.nl/alzheimercentrum/), and on neuro-oncology in the Brain Tumour Centre, Rotterdam (NL).  
+Marion Smits is associate professor and neuroradiologist at Erasmus MC, Rotterdam (NL), and honorary consultant and reader at University College London Hospital NHS Foundation Trust in London (UK). She combines  research with clinical work, with a particular focus on neurodegenerative disease within the [Alzheimer Centre Rotterdam](http://www.erasmusmc.nl/alzheimercentrum/), and on neuro-oncology in the [Brain Tumour Centre](https://www.erasmusmc.nl/hersentumorcentrum/), Rotterdam (NL).  
 
 <img src="marion.jpg" style="float:left;margin:0 1em 0.5em 0" alt="Marion Smits">
 Marion is principal investigator of applied physiological MR neuroimaging at Erasmus MC. This research line is focused on the non-invasive, in vivo visualisation of the human brain’s function and (micro)structure under physiological and particularly pathological conditions. The clinical applicability and implementation of functional MR neuroimaging techniques and their findings are an important aspect of her research line. This means that she closely collaborates, both nationally and internationally, with a variety of clinicians such as neurologists, neuro-oncologists, neurosurgeons, rehabilitation physicians, (neuro)psychologists, and psychiatrists.  
