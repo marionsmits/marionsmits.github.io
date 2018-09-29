@@ -5,7 +5,7 @@ slug: 2010-11-29-rsna-special-day-2
 tags: conference, radiology
 ---
 
-Today's absolute highlight is Atul Gawande. I am a big fan of his [books](http://www.marionsmits.net/2008/05/17/better/), which I think every doctor should read, reread and then read again. And today he's giving a talk at our own RSNA. What an honour.
+Today's absolute highlight is Atul Gawande. I am a big fan of his [books](/2008/05/17/better/), which I think every doctor should read, reread and then read again. And today he's giving a talk at our own RSNA. What an honour.
 
 [![atul-gawande.JPG](https://dl.dropbox.com/u/3579694/marionsmits.net/2010/11/atul-gawande.thumbnail.JPG)](https://dl.dropbox.com/u/3579694/marionsmits.net/2010/11/atul-gawande.JPG)
 
