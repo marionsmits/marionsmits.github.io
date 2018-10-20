@@ -1,11 +1,11 @@
 ## Upcoming Events
 
-19-23 Sep 2018 [41st ESNR Annual Meeting](http://www.esnr.org/en/calendar/esnr-annual-meetings/19-09-2018-41st-esnr-annual-meeting/), Rotterdam/NL
-
-10-14 Oct 2018 [13th annual meeting of the European Association of Neuro-Oncology](https://www.eano.eu/eano2018/home/), Stockholm/SE
-
-18-20 Oct 2018 [ESMRMB Hands-on course on 3T MRI](https://www.esmrmb.org/education/hands-on-mri/courses-2018/3t-mri/), Rotterdam/NL
-
 15-18 Nov 2018 [SNO annual meeting](https://www.soc-neuro-onc.org/SNO/2018Annual/2018AnnualHome.aspx), New Orleans/US
 
 25-30 Nov 2018 [RSNA annual meeting](https://www.rsna.org/Annual-Meeting/), Chicago/US
+
+22-25 Jan 2019 [Advanced Course in Diagnostic Neuroradiology: glioma imaging](https://www.esnr.org/en/2nd-advanced-course-in-diagnostic-neuroradiology-glioma-imaging-4876/), Milan/IT
+
+1 Feb 2019 Joint scientific meeting of the Dutch and Belgian sections of Neuroradiology, Utrecht/NL
+
+27 Feb - 3 March 2019 [European Congress of Radiology](https://www.myesr.org/congress), Vienna/AT
