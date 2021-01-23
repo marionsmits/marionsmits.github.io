@@ -18,7 +18,7 @@ Slug: projects
 <br><i>Core researchers involved:</i> Prof. Pieter Wesseling (Amsterdam UMC, PI), Prof. Martin van den Bent (Erasmus MC), Assoc. Prof. Pim French (Erasmus MC), Prof. Max Kros (Erasmus MC), Assist. Prof. Bart Westerman (Amsterdam UMC), Dr. Mathilde Kouwenhoven (Amsterdam UMC), Prof. Roel Verhaak (The Jackson Laboratory), Wies Vallentgoed (Erasmus MC, PhD student), Karin van Garderen (Erasmus MC, PhD student).
 
 <br><b>EU COST Action [GLiMR](https://glimr.eu): GLioma MR imaging 2.0</b>
-<br><i>Role:</i> working group lead stakeholder relations
+<br><i>Role:</i> working group lead (stakeholder relations)
 <br>This COST Action is led by my former post-doc and now Assistant Professor Esther Warnert (Erasmus MC). This Action aims to build a pan-European and multidisciplinary network of international experts in glioma research, patient organisations, data scientists, and MR imaging scientists by uniting the glioma imaging community within Europe and progressing the development and application of advanced MR imaging for improved decision making in diagnosis, patient monitoring, and assessment of treatment response in clinical trials and clinical practice. 
 <br><i>Funding:</i> EU Horizon2020
 
