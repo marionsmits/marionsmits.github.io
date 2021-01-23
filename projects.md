@@ -36,7 +36,7 @@ Slug: projects
 <br><b>Advanced imaging in neuro-oncology</b>
 <br><i>Role:</i> principal investigator
 <br>This research line comprises multiple projects at Erasmus MC (some in collaboration with LUMC and TUDelft) aimed at the development and implementation of novel imaging and image analysis techniques of brain tumours. The work is a result of close collaboration with the biomedical imaging group Rotterdam (BIGR) led by prof. Wiro Niessen, the MRI physics group led by prof. Juan Hernandez Tamames, and clinical partners within the Brain Tumour Centre of the Erasmus MC Cancer Institute (Prof. Martin van den Bent, Dr. Arnaud Vincent, Dr. Alejandra Mendez). Together we assess imaging phenotypes of glioma genotypes (iGENE study, vascular signature mapping), develop and validate advanced imaging techniques such as chemical exchange saturation transfer (CEST) imaging and combined PET-MRI imaging.
-<br><i>Funding:</i> KWF Dutch Cancer Society , NWO-TTW, The Brain Tumour Charity, Stichting Sammy, Varian, Daniel den Hoed Stichting
+<br><i>Funding:</i> KWF Dutch Cancer Society, NWO-TTW, The Brain Tumour Charity, Stichting Sammy, Varian, Daniel den Hoed Stichting
 <br><i>Core researchers involved:</i> at Erasmus MC - Assoc. Prof. Stefan Klein, Assist. Prof. Esther Warnert, Dr. Sophie Veldhuijzen van Zanten, Dr. Astrid van der Veldt, Assist. Prof. Dirk Poot, Fatih Incekara (PhD student), Sebastian van der Voort (post-doc), Krishnapriya Venugopal (PhD student), Sophie Derks (PhD student), Ilanah Pruis (PhD student), Yulun Wu (PhD student), Fatemehsadat Arzanforoosh (PhD student); at TUDelft - Assoc. Prof. Frans Vos, Chih-Hsien Tseng (PhD student); at LUMC - Prof. Matthias van Osch, Danielle van Dorth (PhD student)
 
 
