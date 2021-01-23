@@ -1,7 +1,15 @@
 ## Events
 
-14 June 2019 Inaugural Lecture ['The image that counts'](https://www.youtube.com/watch?v=NuPW2FBd6p0&t=19s)
+8-10 Feb [Cancer Drug Development Forum](https://cddf.org), online
 
-30 Sep - 2 Oct  [ESMRMB annual meeting](https://www.esmrmb.org/congress/congress2020/), online
+Feb - April [Hot Topics Brain Tumours](https://hot-topics.org/program/), online
 
-4-7 Nov [ESNR-ESMRMB European Course on Advanced Neuroimaging Techniques](https://www.esmrmb.org/school-of-mri/), Malta/online
+3-7 March [European Congress of Radiology](https://www.myesr.org/congress/congress), online
+
+5-8 May [ESNR-ESMRMB European Course on Advanced Neuroimaging Techniques](https://www.esmrmb.org/school-of-mri/), Berlin/online
+
+15-20 May [ISMRM annual meeting](https://www.ismrm.org/21m/), online
+
+7-9 Oct  [ESMRMB annual meeting](https://www.esmrmb.org), online
+
+
