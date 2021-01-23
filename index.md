@@ -4,7 +4,7 @@ layout: page
 
 Marion Smits is full professor, Chief of neuroradiology, and Co-Chair of the neuroradiology fellowship programme at Erasmus MC - University Medical Centre Rotterdam (NL). 
 <br>She also holds an honorary appointment at the University College London Hospitals NHS Foundation Trust, London (UK). She combines  research with clinical work as a neuro- and head & neck radiologist, with a particular focus on neuro-oncology in the [Brain Tumour Centre](https://www.erasmusmc.nl/hersentumorcentrum/) of the Erasmus MC Cancer Institute, Rotterdam (NL). 
-<br>She is Past-President of the [European Society for Magnetic Resonance in Medicine and Biology (ESMRMB)](https://www.esmrmb.org), Chair of the Publications Committee and Executive Council member at the [European Society of Radiology](myesr.org), Past-Chair of the Imaging Group and Chair of the Brain Tumour Group Imaging Committee of the [European Organisation for Research and Treatment of Cancer (EORTC)](http://www.eortc.org).
+<br>She is Past-President of the [European Society for Magnetic Resonance in Medicine and Biology (ESMRMB)](https://www.esmrmb.org), Chair of the Publications Committee and Executive Council member at the [European Society of Radiology](myesr.org), Chair of the Dutch Society of Neuroradiology, Past-Chair of the Imaging Group and Chair of the Brain Tumour Group Imaging Committee of the [European Organisation for Research and Treatment of Cancer (EORTC)](http://www.eortc.org).
 
 <a href="Marion2019-2698px.jpg"><img src="Marion2019-500px.jpg" class="portrait" alt="Marion Smits"></a>
 
