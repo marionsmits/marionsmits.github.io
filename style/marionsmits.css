@@ -347,6 +347,11 @@ body { margin: 0 auto; width: 75em; }
 	.content .meta + h3 { margin-top: 0; }
 }
 
+body.index img.portrait { width:250px; }
+@media (min-width: 520px) {
+	body.index img.portrait { float:left; margin:0 20px 0.5em 0; }
+}
+
 /* Text  */
 
 body { font-size:13px; }
