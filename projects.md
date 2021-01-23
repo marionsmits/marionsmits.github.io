@@ -7,7 +7,7 @@ Slug: projects
 
 <b>[Cancer Diagnostics 3.0: big data science of <i>in</i> & <i>ex vivo</i> imaging](https://www.medicaldelta.nl/en/research/cancer-diagnostics-3-0-big-data-science-of-in-ex-vivo-imaging)</b>
 <br><i>Role:</i> scientific lead
-<br>The ultimate aim of this scientific programme within the medical-technological Medical Delta of Rotterdam, Leiden and Delft is to provide cancer diagnosis without the need for invasive procedures such as biopsy through advanced imaging and image analysis techniques. The current focus is on brain tumours.
+<br>This is one of eleven scientific programmes within the medical-technological research environment 'Medical Delta'. The ultimate aim is to provide cancer diagnosis without the need for invasive procedures such as biopsy through advanced imaging and image analysis techniques. The current focus is on brain tumours.
 <br><i>Funding:</i> Medical Delta, NWO-TTW.
 <br><i>Core researchers involved:</i> Prof. Matthias van Osch (LUMC, co-lead), Prof. Sjoerd Stallinga (TUDelft, co-lead), Karin van Garderen (Erasmus MC, PhD student), Barbara Schmitz-Abecassis (LUMC, PhD student), vacancy (TUDelft, post-doc).
 
