@@ -29,7 +29,7 @@ Slug: projects
 
 <br><b>[PERISCOPE](https://zorgevaluatienederland.nl/evaluations/periscope): the clinical value of perfusion MRI in primary and secondary brain tumour surveillance</b>
 <br><i>Role:</i> principal investigator
-<br>In this Dutch national multicentre study data are collected both prospectively and retrospectively on brain tumour patient aiming to assess the clinical value of perfusion MRI in their management. Fifteen centres are currently involved, and data of over 1,000 patients have been collected. 
+<br>In this Dutch national multicentre study data are collected both prospectively and retrospectively on brain tumour patient aiming to assess the clinical value of perfusion MRI in their management. Fifteen centres are currently involved, and data of over 1,000 patients have thus far been collected. 
 <br><i>Funding:</i> ZonMW Leading the Change
 <br><i>Core researchers involved:</i> Dr. Anouk van der Hoorn (UMCG), Dr. Linda Dirven (LUMC), Wouter Teunissen (Erasmus MC, PhD student)
 
