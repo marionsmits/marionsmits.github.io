@@ -24,7 +24,7 @@ Slug: projects
 
 <br><b>EORTC CENTRIC-CORE Imaging Data Analysis Research Programme </b>
 <br><i>Role:</i> programme lead
-<br>This research programme comprises multiple projects performed by members of the [EORTC Brain Tumour Group](https://www.eortc.org/research_field/brain/) (BTG) imaging committee on the imaging and clinical data from the CENTRIC (link:) and CORE (link:) trials. Topics under investigation include the impact of post-surgical tumour burden on overall survival, automated response assessment, and temporal muscle thickness as a measure of frailty. 
+<br>This research programme comprises multiple projects performed by members of the [EORTC Brain Tumour Group](https://www.eortc.org/research_field/brain/) (BTG) imaging committee on the imaging and clinical data from the [CENTRIC](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(14)70379-1/fulltext) and [CORE](https://academic.oup.com/neuro-oncology/article/17/5/708/1109348) trials. Topics under investigation include the impact of post-surgical tumour burden on overall survival, automated response assessment, and temporal muscle thickness as a measure of frailty. 
 <br><i>Core researchers involved:</i> Prof. Michael Weller (EORTC-BTG chair), Prof. Joerg Tonn (trial-PI), Dr. Julia Furtner, Prof. Jens Gempt, Prof. Norbert Galldiks, Dr. Slavka Lukacova , Dr. Philip Lohmann, Dr. Philipp Vollmuth
 
 <br><b>[PERISCOPE: the clinical value of perfusion MRI in primary and secondary brain tumour surveillance]( https://zorgevaluatienederland.nl/evaluations/periscope)</b>
