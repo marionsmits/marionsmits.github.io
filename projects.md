@@ -9,7 +9,7 @@ Slug: projects
 <br><i>Role:</i> scientific lead
 <br>This is one of thirteen scientific programmes within the medical-technological research environment of the 'Medical Delta'. The ultimate aim is to provide cancer diagnosis without the need for invasive procedures such as biopsy through advanced imaging and image analysis techniques. The current focus is on brain tumours.
 <br><i>Funding:</i> Medical Delta, NWO-TTW
-<br><i>Core researchers involved:</i> Prof. Matthias van Osch (LUMC, co-lead), Prof. Sjoerd Stallinga (TU Delft, co-lead), Karin van Garderen (Erasmus MC, PhD student), Barbara Schmitz-Abecassis (LUMC, PhD student), vacancy (TU Delft, post-doc)
+<br><i>Core researchers involved:</i> Prof. Matthias van Osch (LUMC, co-lead), Assoc. Prof. Jeroen Kalkman (TU Delft, co-lead), Karin van Garderen (Erasmus MC, PhD student), Barbara Schmitz-Abecassis (LUMC, PhD student), vacancy (TU Delft, post-doc)
 
 <br><b>[GLASS-NL: Glioma Longitudinal AnalySiS in the Netherlands](https://www.glass-consortium.org)</b>
 <br><i>Role:</i> work package lead (imaging)
@@ -25,7 +25,7 @@ Slug: projects
 <br><b>EORTC CENTRIC-CORE Imaging Data Analysis Research Programme </b>
 <br><i>Role:</i> programme lead
 <br>This research programme comprises multiple projects performed by members of the [EORTC Brain Tumour Group](https://www.eortc.org/research_field/brain/) (BTG) imaging committee on the imaging and clinical data from the [CENTRIC](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(14)70379-1/fulltext) and [CORE](https://academic.oup.com/neuro-oncology/article/17/5/708/1109348) trials. Topics under investigation include the impact of post-surgical tumour burden on overall survival, automated response assessment, and temporal muscle thickness as a measure of frailty. 
-<br><i>Core researchers involved:</i> Prof. Michael Weller (EORTC-BTG chair), Prof. Joerg Tonn (trial-PI), Dr. Julia Furtner, Prof. Jens Gempt, Prof. Norbert Galldiks, Dr. Slavka Lukacova , Dr. Philip Lohmann, Dr. Philipp Vollmuth
+<br><i>Core researchers involved:</i> Prof. Michael Weller (EORTC-BTG chair), Prof. Joerg Tonn (trial-PI), Dr. Julia Furtner, Prof. Jens Gempt, Prof. Norbert Galldiks, Dr. Slavka Lukacova , Dr. Philip Lohmann, Dr. Philipp Vollmuth, Dr. Ahmad Alafandi (PhD student)
 
 <br><b>[PERISCOPE](https://zorgevaluatienederland.nl/evaluations/periscope): the clinical value of perfusion MRI in primary and secondary brain tumour surveillance</b>
 <br><i>Role:</i> principal investigator
@@ -37,7 +37,7 @@ Slug: projects
 <br><i>Role:</i> principal investigator
 <br>This research line comprises multiple projects at Erasmus MC (some in collaboration with LUMC and TU Delft) aimed at the development and implementation of novel imaging and image analysis techniques of brain tumours. The work is a result of close collaboration with the Biomedical Imaging Group Rotterdam (BIGR) led by prof. Wiro Niessen, the MRI physics group led by prof. Juan Hernandez Tamames, and clinical partners within the Brain Tumour Centre of the Erasmus MC Cancer Institute (Prof. Martin van den Bent, Dr. Arnaud Vincent, Dr. Alejandra Mendez). Together we assess imaging phenotypes of glioma genotypes (iGENE study, vascular signature mapping), and develop and validate advanced imaging techniques such as chemical exchange saturation transfer (CEST) imaging and combined PET-MRI imaging.
 <br><i>Funding:</i> KWF Dutch Cancer Society, NWO-TTW, The Brain Tumour Charity, Stichting Semmy, Varian, Daniel den Hoed Stichting
-<br><i>Core researchers involved:</i> at Erasmus MC - Assoc. Prof. Stefan Klein, Assist. Prof. Esther Warnert, Dr. Sophie Veldhuijzen van Zanten, Dr. Astrid van der Veldt, Assist. Prof. Dirk Poot, Fatih Incekara (PhD student), Sebastian van der Voort (post-doc), Krishnapriya Venugopal (PhD student), Sophie Derks (PhD student), Ilanah Pruis (PhD student), Yulun Wu (PhD student), Fatemehsadat Arzanforoosh (PhD student); at TUDelft - Assoc. Prof. Frans Vos, Chih-Hsien Tseng (PhD student); at LUMC - Prof. Matthias van Osch, Danielle van Dorth (PhD student)
+<br><i>Core researchers involved:</i> at Erasmus MC - Assoc. Prof. Stefan Klein, Assist. Prof. Esther Warnert, Dr. Sophie Veldhuijzen van Zanten, Dr. Astrid van der Veldt, Assist. Prof. Dirk Poot, Dr. Pieter Kruizinga, Dr. Sebastian van der Voort (post-doc), Krishnapriya Venugopal (PhD student), Sophie Derks (PhD student), Ilanah Pruis (PhD student), Yulun Wu (PhD student), Fatemehsadat Arzanforoosh (PhD student), Ahmad Alafandi (PhD student); at TUDelft - Assoc. Prof. Frans Vos, Chih-Hsien Tseng (PhD student); at LUMC - Prof. Matthias van Osch, Danielle van Dorth (PhD student)
 
 
 <br><b>The Covid-19 pandemic</b>
