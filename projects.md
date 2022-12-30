@@ -11,7 +11,7 @@ Slug: projects
 <br><i>Funding:</i> Medical Delta, NWO-TTW
 <br><i>Core researchers involved:</i> Prof. Matthias van Osch (LUMC, co-lead), Assoc. Prof. Jeroen Kalkman (TU Delft, co-lead), Karin van Garderen (Erasmus MC, PhD student), Barbara Schmitz-Abecassis (LUMC, PhD student), Alim Yolalmaz (TU Delft, post-doc)
 
-<br><b>Advanced imaging and artificial intelligence (AI) in neuro-oncology</b>
+<br><b>[Advanced imaging and artificial intelligence (AI) in neuro-oncology](https://hersentumorcentrum.nl/wetenschap-en-onderzoek/beeldvormende-diagnostiek/)</b>
 <br><i>Role:</i> principal investigator
 <br>This research line comprises multiple projects at Erasmus MC (some in collaboration with LUMC and TU Delft) aimed at the development and implementation of novel imaging and image analysis techniques of brain tumours. The work is a result of close collaboration with the Biomedical Imaging Group Rotterdam (BIGR) led by prof. Wiro Niessen, the MRI physics group led by prof. Juan Hernandez Tamames, and clinical partners within the Brain Tumour Centre of the Erasmus MC Cancer Institute (prof. Martin van den Bent, prof. Arnaud Vincent, dr. Alejandra Mendez). Together we assess imaging phenotypes of glioma genotypes by developing AI (iGENE study, vascular signature mapping), and develop and validate advanced imaging techniques such as chemical exchange saturation transfer (CEST) imaging and combined PET-MRI imaging. Clinical translation and utility are important aspects of both AI and advanced image acquisition assessment.
 <br><i>Funding:</i> KWF Dutch Cancer Society, NWO-TTW, The Brain Tumour Charity, Stichting Semmy, Varian, Daniel den Hoed Stichting, NWO-Mosaic.
@@ -37,13 +37,7 @@ Slug: projects
 <br><i>Role:</i> principal investigator
 <br>In this Dutch nation-wide multicentre study data are collected both prospectively and retrospectively on brain tumour patient aiming to assess the clinical value of perfusion MRI in their management. Fifteen centres are currently involved, and data of over 1,000 patients have thus far been collected. 
 <br><i>Funding:</i> ZonMW Leading the Change
-<br><i>Core researchers involved:</i> Dr. Anouk van der Hoorn (UMCG), Dr. Linda Dirven (LUMC), Wouter Teunissen (Erasmus MC, PhD student), J Labrecque (Erasmus MC, post-doctoral resesarcher)
-
-<br><b>The Covid-19 pandemic</b>
-<br><i>Role:</i> chair (EORTC), project lead (ESNR)
-<br>Within the EORTC Imaging Group we evaluated the impact of the Covid-19 pandemic on imaging in oncological trials which resulted in fast track [publication in the European Journal of Nuclear and Molecular Medicine](https://link.springer.com/article/10.1007/s00259-020-04910-y).
-<br>Within the ESNR Diagnostic Committee we conducted a survey to understand the impact the pandemic has or has had on the work, training, and wellbeing of professionals in the field of diagnostic Neuroradiology. These insights may be used to prepare or improve strategies for similar situations and address potential needs and worries that arose from the crisis and were published in [Neuroradiology](https://link.springer.com/article/10.1007%2Fs00234-021-02722-x). Further surveys are planned to continue monitoring the prolonged situation and long-term effects on the Neuroradiological community.
-<br><i>Core researchers involved:</i> Prof. Meike Vernooij, Prof. Tarek Yousry, Prof. Ana Ramos, Dr. Nuria Bargallo
+<br><i>Core researchers involved:</i> Dr. Anouk van der Hoorn (UMCG), Dr. Linda Dirven (LUMC), Wouter Teunissen (Erasmus MC, PhD student), J Labrecque (Erasmus MC, post-doc)
 
 
  
