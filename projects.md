@@ -5,17 +5,17 @@ Type: page
 Slug: projects
 ---
 
-<b>[Cancer Diagnostics 3.0: big data science of <i>in</i> & <i>ex vivo</i> imaging](https://www.medicaldelta.nl/en/research/cancer-diagnostics-3-0-big-data-science-of-in-ex-vivo-imaging)</b>
-<br><i>Role:</i> scientific lead
-<br>This is one of thirteen scientific programmes within the medical-technological research environment of the 'Medical Delta'. The ultimate aim is to provide cancer diagnosis without the need for invasive procedures such as biopsy through advanced imaging and image analysis techniques. The current focus is on brain tumours.
-<br><i>Funding:</i> Medical Delta, NWO-TTW
-<br><i>Core researchers involved:</i> Prof. Matthias van Osch (LUMC, co-lead), Assoc. Prof. Jeroen Kalkman (TU Delft, co-lead), Karin van Garderen (Erasmus MC, PhD student), Barbara Schmitz-Abecassis (LUMC, PhD student), Alim Yolalmaz (TU Delft, post-doc)
-
 <br><b>[Advanced imaging and artificial intelligence (AI) in neuro-oncology](https://hersentumorcentrum.nl/wetenschap-en-onderzoek/beeldvormende-diagnostiek/)</b>
 <br><i>Role:</i> principal investigator
 <br>This research line comprises multiple projects at Erasmus MC (some in collaboration with LUMC and TU Delft) aimed at the development and implementation of novel imaging and image analysis techniques of brain tumours. The work is a result of close collaboration with the Biomedical Imaging Group Rotterdam (BIGR) led by prof. Wiro Niessen, the MRI physics group led by prof. Juan Hernandez Tamames, and clinical partners within the Brain Tumour Centre of the Erasmus MC Cancer Institute (prof. Martin van den Bent, prof. Arnaud Vincent, dr. Alejandra Mendez). Together we assess imaging phenotypes of glioma genotypes by developing AI (iGENE study, vascular signature mapping), and develop and validate advanced imaging techniques such as chemical exchange saturation transfer (CEST) imaging and combined PET-MRI imaging. Clinical translation and utility are important aspects of both AI and advanced image acquisition assessment.
 <br><i>Funding:</i> KWF Dutch Cancer Society, NWO-TTW, The Brain Tumour Charity, Stichting Semmy, Varian, Daniel den Hoed Stichting, Convergence, NWO-Mosaic.
 <br><i>Core researchers involved:</i> at Erasmus MC - Assoc. Prof. Stefan Klein, Assist. Prof. Esther Warnert, Assist. Prof. Sophie Veldhuijzen van Zanten, Dr. Astrid van der Veldt, Assist. Prof. Dirk Poot, Dr. Pieter Kruizinga, Dr. Sebastian van der Voort (post-doc), Krishnapriya Venugopal (PhD student), Sophie Derks (PhD student), Ilanah Pruis (PhD student), Yulun Wu (PhD student), Fatemehsadat Arzanforoosh (PhD student), Ahmad Alafandi (PhD student), Patrick Tang (PhD student); at TUDelft - Assoc. Prof. Frans Vos, Chih-Hsien Tseng (PhD student); at LUMC - Prof. Matthias van Osch, Danielle van Dorth (PhD student)
+
+<b>[Cancer Diagnostics 3.0: big data science of <i>in</i> & <i>ex vivo</i> imaging](https://www.medicaldelta.nl/en/research/cancer-diagnostics-3-0-big-data-science-of-in-ex-vivo-imaging)</b>
+<br><i>Role:</i> scientific lead
+<br>This is one of thirteen scientific programmes within the medical-technological research environment of the 'Medical Delta'. The ultimate aim is to provide cancer diagnosis without the need for invasive procedures such as biopsy through advanced imaging and image analysis techniques. The current focus is on brain tumours.
+<br><i>Funding:</i> Medical Delta, NWO-TTW
+<br><i>Core researchers involved:</i> Prof. Matthias van Osch (LUMC, co-lead), Assoc. Prof. Jeroen Kalkman (TU Delft, co-lead), Karin van Garderen (Erasmus MC, PhD student), Barbara Schmitz-Abecassis (LUMC, PhD student), Alim Yolalmaz (TU Delft, post-doc)
 
 <br><b>[GLASS-NL: Glioma Longitudinal AnalySiS in the Netherlands](https://www.glass-consortium.org)</b>
 <br><i>Role:</i> work package lead (imaging)
