@@ -7,9 +7,21 @@ Slug: projects
 
 <br><b>[Advanced imaging and artificial intelligence (AI) in neuro-oncology](https://hersentumorcentrum.nl/wetenschap-en-onderzoek/beeldvormende-diagnostiek/)</b>
 <br><i>Role:</i> principal investigator
-<br>This research line comprises multiple projects at Erasmus MC (some in collaboration with LUMC and TU Delft) aimed at the development and implementation of novel imaging and image analysis techniques of brain tumours. The work is a result of close collaboration with the Biomedical Imaging Group Rotterdam (BIGR) led by prof. Wiro Niessen, the MRI physics group led by prof. Juan Hernandez Tamames, and clinical partners within the Brain Tumour Centre of the Erasmus MC Cancer Institute (prof. Martin van den Bent, prof. Arnaud Vincent, dr. Alejandra Mendez). Together we assess imaging phenotypes of glioma genotypes by developing AI (iGENE study, vascular signature mapping), and develop and validate advanced imaging techniques such as chemical exchange saturation transfer (CEST) imaging and combined PET-MRI imaging. Clinical translation and utility are important aspects of both AI and advanced image acquisition assessment.
-<br><i>Funding:</i> KWF Dutch Cancer Society, NWO-TTW, The Brain Tumour Charity, Stichting Semmy, Varian, Daniel den Hoed Stichting, Convergence, NWO-Mosaic.
-<br><i>Core researchers involved:</i> at Erasmus MC - Assoc. Prof. Stefan Klein, Assist. Prof. Esther Warnert, Assist. Prof. Sophie Veldhuijzen van Zanten, Dr. Astrid van der Veldt, Assist. Prof. Dirk Poot, Dr. Pieter Kruizinga, Dr. Sebastian van der Voort (post-doc), Krishnapriya Venugopal (PhD student), Sophie Derks (PhD student), Ilanah Pruis (PhD student), Yulun Wu (PhD student), Fatemehsadat Arzanforoosh (PhD student), Ahmad Alafandi (PhD student), Patrick Tang (PhD student); at TUDelft - Assoc. Prof. Frans Vos, Chih-Hsien Tseng (PhD student); at LUMC - Prof. Matthias van Osch, Danielle van Dorth (PhD student)
+<br>This research line comprises multiple projects at Erasmus MC (some in collaboration with LUMC, TU Delft, Erasmus University Rotterdam, Radboudumc Nijmegen, AmsterdamUMC) aimed at the development and implementation of novel imaging and image analysis techniques of brain tumours. The work is a result of close collaboration with the Biomedical Imaging Group Rotterdam (BIGR) led by prof. Stefan Klein, the MRI physics group led by prof. Juan Hernandez-Tamames, and clinical partners within the Brain Tumour Centre of the Erasmus MC Cancer Institute (Neuro-oncology, Neurosurgery, Neuropathology, Radiation therapy). Together we assess imaging phenotypes of glioma genotypes by developing AI (iGENE & iGENE2.0 study, vascular signature mapping), and develop and validate advanced imaging techniques such as chemical exchange saturation transfer (CEST) imaging and combined PET-MRI imaging. Clinical translation and utility are important aspects of both AI and advanced image acquisition assessment.
+<br><i>Funding:</i> ZonMW, KWF Dutch Cancer Society, NWO-TTW, The Brain Tumour Charity, Stichting Semmy, Varian, Daniel den Hoed Stichting, Convergence, NWO-Mosaic.
+<br><i>Core researchers involved:</i> at Erasmus MC - Prof. Stefan Klein, Assist. Prof. Esther Warnert, Assist. Prof. Sophie Veldhuijzen van Zanten, Dr. Astrid van der Veldt, Assist. Prof. Marjolein Geurts, Dr. Eelke Bos, Dr. Niek Maas, Assist. Prof. Dirk Poot, Dr. Pieter Kruizinga, Krishnapriya Venugopal (PhD student), Sophie Derks (PhD student), Juancito van Leeuwen (PhD student), Bas Dille (PhD student), Karen van der Werff (PhD student), Laura Kemper (PhD student), Ikenna Asuzu (PhD student), Dr. Tareq Abdel Alim (post-doc), Ahmad Alafandi (PhD student), Patrick Tang (PhD student); at TUDelft - Assoc. Prof. Frans Vos, Chih-Hsien Tseng (PhD student); at LUMC - Prof. Matthias van Osch, Danielle van Dorth (PhD student); at Erasmus University Rotterdam: Assist. Prof. Brenda Leeneman; at Radboudumc Nijmegen: Prof. Geert Litjens; at AmsterdamUMC: Assist. Prof. Sebastian van der Voort, Dr. Vera Keil.
+
+<br><b>[PERISCOPE](https://zorgevaluatienederland.nl/evaluations/periscope): the clinical value of perfusion MRI in primary and secondary brain tumour surveillance</b>
+<br><i>Role:</i> principal investigator
+<br>In this Dutch nation-wide multicentre study data are collected both prospectively and retrospectively on brain tumour patient aiming to assess the clinical value of perfusion MRI in their management. Fifteen centres are currently involved, and data of over 1,000 patients have thus far been collected. 
+<br><i>Funding:</i> ZonMW Leading the Change
+<br><i>Core researchers involved:</i> Assoc. Prof. Anouk van der Hoorn (UMCG), Asst. Prof. Brenda Leeneman (EUR), Seamus Kent (PhD student), Dr. Wouter Teunissen.
+
+<br><b>Sustainable neuro-imaging in oncology</b>
+<br><i>Role:</i> principal and co-investigator
+<br><i>Funding:</i> TKI-LSH
+<br>The use of contrast-agents is commonplace in imaging for neuro-oncology, but environmental concerns together with the advancement of imaging techniques require a re-assessment of current practices. We investigate whether follow-up of untreated meningeoma can be performed without contrast-agent administration and what the value of contrast-agent administration is in long-term survivors of glioma. Additionally, we investigate new MRI techniques for their potential to replace contrast-enhanced techniques.
+<br><i>Core researchers involved:</i> Dr. Eelke Bos, Saan Salih (MSc student), Dr. Vera Keil (AmsterdamUMC), Dr. Matthijs van der Meulen (LUMC), Noemi Sgamberulli (PhD student), Prof. Juan Hernandez-Tamames.
 
 <br><b>[Cancer Diagnostics 3.0: big data science of <i>in</i> & <i>ex vivo</i> imaging](https://www.medicaldelta.nl/en/research/cancer-diagnostics-3-0-big-data-science-of-in-ex-vivo-imaging)</b>
 <br><i>Role:</i> scientific lead
@@ -23,21 +35,6 @@ Slug: projects
 <br><i>Funding:</i> KWF Dutch Cancer Society 
 <br><i>Core researchers involved:</i> Prof. Pieter Wesseling (Amsterdam UMC, PI), Prof. Martin van den Bent (Erasmus MC), Assoc. Prof. Pim French (Erasmus MC), Prof. Max Kros (Erasmus MC), Assist. Prof. Bart Westerman (Amsterdam UMC), Dr. Mathilde Kouwenhoven (Amsterdam UMC), Prof. Roel Verhaak (The Jackson Laboratory), Wies Vallentgoed (Erasmus MC, PhD student), Karin van Garderen (Erasmus MC, PhD student)
 
-<br><b>EU COST Action [GLiMR](https://glimr.eu): GLioma MR imaging 2.0</b>
-<br><i>Role:</i> working group lead (stakeholder relations)
-<br>This COST Action is led by my former post-doc and now Assist. Prof. Esther Warnert (Erasmus MC). This Action aims to build a pan-European and multidisciplinary network of international experts in glioma research, patient organisations, data scientists, and MR imaging scientists by uniting the glioma imaging community within Europe and progressing the development and application of advanced MR imaging for improved decision making in diagnosis, patient monitoring, and assessment of treatment response in clinical trials and clinical practice. 
-<br><i>Funding:</i> EU Horizon2020
-
-<br><b>EORTC CENTRIC-CORE Imaging Data Analysis Research Programme </b>
-<br><i>Role:</i> programme lead
-<br>This research programme comprises multiple projects performed by members of the [EORTC Brain Tumour Group](https://www.eortc.org/research_field/brain/) (BTG) imaging committee on the imaging and clinical data from the [CENTRIC](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(14)70379-1/fulltext) and [CORE](https://academic.oup.com/neuro-oncology/article/17/5/708/1109348) trials. Topics under investigation include the impact of post-surgical tumour burden on overall survival, automated response assessment, and temporal muscle thickness as a measure of frailty. 
-<br><i>Core researchers involved:</i> Prof. Michael Weller (EORTC-BTG chair), Prof. Joerg Tonn (trial-PI), Dr. Julia Furtner, Prof. Jens Gempt, Prof. Norbert Galldiks, Dr. Slavka Lukacova , Dr. Philip Lohmann, Dr. Philipp Vollmuth, Dr. Ahmad Alafandi (PhD student)
-
-<br><b>[PERISCOPE](https://zorgevaluatienederland.nl/evaluations/periscope): the clinical value of perfusion MRI in primary and secondary brain tumour surveillance</b>
-<br><i>Role:</i> principal investigator
-<br>In this Dutch nation-wide multicentre study data are collected both prospectively and retrospectively on brain tumour patient aiming to assess the clinical value of perfusion MRI in their management. Fifteen centres are currently involved, and data of over 1,000 patients have thus far been collected. 
-<br><i>Funding:</i> ZonMW Leading the Change
-<br><i>Core researchers involved:</i> Dr. Anouk van der Hoorn (UMCG), Dr. Linda Dirven (LUMC), Wouter Teunissen (Erasmus MC, PhD student), J Labrecque (Erasmus MC, post-doc)
 
 
  
